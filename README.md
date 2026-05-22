@@ -1,3 +1,7 @@
+ScreenShot->
+                      <img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/2ed3ff9a-a851-40b9-a943-a348e6114b88" />
+
+
 # Eventora
 
 Simple event booking platform (frontend + Express/Mongo backend).
